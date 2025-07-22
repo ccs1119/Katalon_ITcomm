@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fct-Sys-001-001 Login ITFM</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c34fdb5-1cc2-4457-9ee5-7b2e9f8fd744</testCaseGuid>
+</TestCaseEntity>
